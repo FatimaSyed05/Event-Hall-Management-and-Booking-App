@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,3 +53,6 @@ Join our community of developers creating universal apps.
 =======
 # Event-Hall-Management-and-Booking-App
 >>>>>>> 1df0c433b7357530e3cb6486f72c2bdfe79a7f8f
+=======
+# Event-Hall-Management-and-Booking-App
+>>>>>>> origin/main
